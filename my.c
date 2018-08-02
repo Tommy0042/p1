@@ -12,8 +12,8 @@ int main()
   lus_n = 0;
 
   printf("now im here!!\n");
-  printf("Ne Zahl: %u\n", 55000);
-  printf("Ne Zahl: %#08x\n", 55000);
+  printf("Eine Zahl: %u\n", 55000);
+  printf("Eine Zahl: %#08x\n", 55000);
   printf("\n");
   printf("UCHAR_MAX: %#08x\n", UCHAR_MAX);
   printf("USHRT_MAX: %#08x\n", USHRT_MAX);
